@@ -16,20 +16,12 @@
           {
             "group": "Iniciar",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "index/markdown",
+              "index/code",
+              "index/images",
+              "index/settings",
+              "index/navigation",
+              "index/reusable-snippets"
             ]
           }
         ]
